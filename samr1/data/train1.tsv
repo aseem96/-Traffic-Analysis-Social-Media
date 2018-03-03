@@ -1,0 +1,781 @@
+PhraseId	SentenceId	Phrase	Sentiment
+1	1	Slow moving traffic on Mysore road from Satellite town towards Mysore road flyover.	1
+2	2	Slow moving traffic seen at Adugodi jn, Anepalya jn, Queens road, Cubbon road and Seshadri road.	1
+3	3	Traffic from adugodi signal towards cemetery.	1
+4	4	Moderate traffic from Phoenix Mall towards Hoodi Crl at 8:07 PM	1
+5	5	Slow moving traffic from Marathahalli towards Kadubeesanahalli at 8:37 pm	1
+6	6	Slow moving traffic from BTM Layout towards Silk Board at 9:24 pm	1
+7	7	Moderate traffic from Indira Nagar towads Domlur at 9:55 pm	1
+8	8	Slow moving traffic @ Malleshwaram 8th main rd. bound from Yeshwantpur Circle towards Malleshwaram 15th Cross Rd. at 8.30 AM.	1
+9	9	Tumkur Rd. traffic is running Slow from Nagasandra Metro Stn. towards Yeshwantpur via Jalahalli &amp; Peenya  at 8.49 AM	1
+10	10	Congested traffic @ Sampige Rd. bound from Malleshwaram Circle towards Malleshwaram 18th Cross Rd. at 9.08 AM.	0
+11	11	Slow moving traffic seen @ Town hall jn., Richmond circle, Bellary road, Sankey tank road and Hudson circle.	1
+12	12	Slow moving #traffic @ Nagavara main rd. bound from Shampura main rd. towards Nagavara jn. at 10.46 A	1
+13	13	Stagnant traffic on the road from Sadashivnagar to Cauvery theater via the magic box	0
+14	14	Due to the VVIP movement, expect held-up traffic at Ballari Road, Sankey Tank Road, C.V Raman Road &amp; New BEL Road. 	1
+15	15	Slow moving traffic from Koromangala Forum to Adugodi due to sewage leakage.	1
+16	16	Due to water logging near Anepalya junction, slow moving traffic on Hosur Rd. from Adugodi Jn. towards Anepalya Jn	1
+17	17	Congested traffic at New BEL Road bound from Sadashivanagar Police Stn. towards Devasandra at 11.40 AM.	0
+18	18	Main Rd. traffic is moving Slow from Thanisandra towards Nagavara Jn. at 12.08 PM.	1
+19	19	ORR #traffic is running Smooth on both sides from Nagavara Jn. towards KR Puram via Hennur Jn. &amp; HRBR Layout at 12.34 PM.	2
+20	20	Congested traffic @ Gen.KS Thimayya Rd. from Richmond Circle towards Shoolay Circle at 12.53 PM. 	0
+21	21	Indiranagar 100 Ft. Rd. traffic is moving Slow on both sides from Domlur Flyover towards Indiranagar at 1.17 PM	1
+22	22	traffic is moving Moderate from KR Puram towards Marathahalli Bridge via Mahadevapura at 2.18 PM.	1
+23	23	Slow moving traffic from Yeshwantpur towards Jalahalli Metro at 2:41 pm	1
+24	24	Smooth from Hope Farm Jn. towards KR Puram via Hoodi Circle at 2.43 PM.	2
+25	25	Whitefield Main Rd. #traffic is moving Moderate from Varthur Kodi towards Hope Farm Jn. via Whitefield at 3.10 PM.	1
+26	26	Moderate traffic from Nagavara towards Hebbal at 3:28 pm	1
+27	27	Slow moving traffic from Trinity Crl towards MG Road at 4:32 pm	1
+28	28	Moderate traffic from Hebbal towards BEL Crl at 6:01 pm	1
+29	29	Slow moving traffic on JC Rd, Mekhri Crl, Shoolay Crl, Tin Factory, Hulimavu Jn, CMTI Jn.	1
+30	30	huge jam at mahadevpura near EMC traffic stuck since 30mins	0
+31	31	Due to Bus breakdown Slow moving traffic on Mahakavi Kuvempu Rd towards Navarang Theater Jn.	1
+32	32	heavy traffic from Mayo Hall towards MG road and Trinity circle	0
+33	33	Slow moving #traffic from Tin Factory towards KR Puram at 6:50 PM	1
+34	34	Moderate #traffic from Domlur towards Indira Nagar at 7:17 PM	1
+35	35	Moderate traffic from Bellandur towards Marathahalli at 8.33 PM.	1
+36	36	Huge traffic jam rite outside town hall	0
+37	37	Huge jam near yelahanka	0
+38	38	Moderate #traffic frm Shoolay Crl towards Richmond Crl at 9:28 PM	1
+39	39	ORR traffic is moving Slow from Jayadeva Flyover towards HSR Layout via Central Silk Board Jn. at 8.23 AM.	1
+40	40	Old Airport Rd. traffic is moving Slow from Marathahalli Bridge towards Kundalahalli Gate at 8.42AM.	1
+41	41	Pile up of traffic at tin factory and on B.T.M.layout outer ring road from Jayadeva hospital junction.	0
+42	42	present traffic @ Graphite India Signal (Whitefield Rd.) is Congested	2
+43	43	Total chaos at Kormangala Sony Signal, because of VIP movement traffic standstill,	0
+44	44	Hosur Main Rd. traffic is moving Slow from Dairy Circle Flyover towards Sarjapur Main Rd. via Hosur Rd. at 9.16 AM. 	1
+45	45	@rkartha At present the traffic out there is Congested / Slow moving.	0
+46	46	VVIP movement may cause delay from 10 AM to 10:30 AM from Sankeys Road upto H.A.L Airport Rd. 	0
+47	47	r tech park~itpl~big bazaar slow moving	1
+48	48	ORR traffic from Bellandur towards Marathahalli Bridge is moving Slow via Kadubeesanahalli at 10.08 AM.	1
+49	49	smooth drive from Hoodi to SAP Labs. Apprehensive about the return route, though.	2
+50	50	You know you are in #bangalore when you face a traffic jam on a flyover!!!	0
+51	51	"Krishi Mela"" at G.K.V.K Chikka Bommasandra Bengaluru. Avoid Hebbal and Yelahanka routes till Sunday as the traffic may get affected."	0
+52	52	 #traffic is running Smooth from Hebbal Flyover towards Nagavara Jn. via Lumbini Gardens at 12.49 PM. 	2
+53	53	moderate traffic near	1
+54	54	heavy traffic near	0
+55	55	heavy traffic from to	0
+56	56	moderate traffic on	1
+57	57	heavy traffic on	0
+58	58	stalled	0
+59	59	Slow moving traffic on EM Bypass Road near Milan Nagar on both side.	1
+60	60	Slow moving traffic on VIP Road near Baguihati.	1
+61	61	Slow moving traffic on EM Bypass Rd. near Ghose Bagan in both directions.,	1
+62	62	Slow moving traffic on Rajrhat Rd. near Dash Drone towards Desh Bandhu colony.	1
+63	63	ON Dum Dum Road traffic is slow moving near Barrackpore Trunk Road Junction.	1
+64	64	Moderarate traffic on Kona Expy on both sides. #kolkata #traffic  	1
+65	65	RT @EconomicTimes: TMC supporters block rail tracks at Taldi Station near Canning in South 24, to protest against Madan Mitra's arrest (Tim…	0
+66	66	RT @saileenasarkar: @TrafflineKol today thr was some heavy traffic near tea board,more than usual..is something happening there today? @WeA…	0
+67	67	Heavy traffic on Grant Trunk Road even at this hour near Salkia towards Belur Bazaar. #Kolkata @ 22:30 Hrs http://t.co/vd7XD5ytcB	0
+68	68	ON Dum Dum Road traffic is slow moving near Barrackpore Trunk Road Junction.	1
+69	69	Prince Anwar Shah Rd traffic is slow moving at Jadavpur Police Stn Jn towards Kalikapur #Kolkata  #traffic updates on http://t.co/hclChqXQdu	1
+70	70	"Congested traffic on PWD Rd towards Bally Ghat Rail.
+Check live #Kolkata #Traffic @ http://t.co/hclChqXQdu"	0
+71	71	"Traffic congested and slow moving from Rabindra Setu towards Sealdah @20.40 hrs.
+Check #Kolkata #Traffic"	1
+72	72	"Prince Anwar Shah Rd traffic is slow moving at Jadavpur Police Stn Jn towards Kalikapur
+#Kolkata  #traffic updates on http://t.co/hclChqXQdu"	1
+73	73	"Congested traffic on PWD Rd towards Bally Ghat Rail.
+Check live #Kolkata #Traffic @ http://t.co/NZXGc34tQm"	0
+74	74	"EM Bypass has traffic congestion near Science city lake.
+Check @ http://t.co/hclChqXQdu for live traffic updates. http://t.co/b4K7qGpSom"	0
+75	75	"Traffic is slow moving on VIP road near Kestopur Canal.
+#Kolkata Live traffic updates @ http://t.co/hclChqXQdu http://t.co/lkTULOo9wf"	1
+76	76	"Slow moving traffic on VIP Rd near Udyan Pally towards Noha Pukar Curve.
+Check live #Kolkata #Traffic @ http://t.co/NZXGc34tQm"	1
+77	77	"Congested traffic on PWD Rd towards Bally Ghat Rail.
+Check live #Kolkata #Traffic @ http://t.co/NZXGc34tQm"	0
+78	78	"Congested traffic on Rajarhat Rd near Atghara towards Taltala.
+Check live #Kolkata #Traffic @ http://t.co/NZXGc34tQm"	0
+79	79	"Prince Anwar Shah Rd traffic is slow moving at Jadavpur Police Stn Jn towards Kalikapur
+#Kolkata  #traffic updates on http://t.co/hclChqXQdu"	1
+80	80	"#Kolkata Vivekananad Road is congested and Slow moving near Girish Park Metro @20.55hrs
+Check live #traffic updates   http://t.co/hclChqXQdu"	0
+81	81	Slow moving traffic on VIp Road near Sheerbhumi.	1
+82	82	Slow moving traffic from Kaikhali towards Raghunathpur on both sides. 	1
+83	83	RT @KanchanGupta: Massive turnout for BJP rally in #kolkata 'Dharmatala packed' was how a reporter described it to me just now:)	0
+84	84	"A political Rally of BJP at Victoria House, shortly Amit Shah will address.
+Check traffic status on http://t.co/4l7pZXjlum"	0
+85	85	"Congestion on strand Bank Rd. near Ahiritola in both directions.
+Check @ http://t.co/hclChqXQdu"	0
+86	86	"Congested and slow moving traffic on EM bypass road near Science City Lake upto Dhapa Road #kolkata 
+Check http://t.co/hclChqXQdu"	0
+87	87	"Congestion on strand Bank Rd. near Ahiritola in both directions.
+Check http://t.co/hclChqXQdu"	0
+88	88	"Slow moving traffic on V.I.P Road towards Ghose Bagan. #KolkataTraffic
+Check live traffic updates @ http://t.co/hclChqXQdu"	1
+89	89	"Smooth flowing traffic on Jessore Road in both directions near Golpark. #KolkataTraffic
+Check live traffic updates @ http://t.co/hclChqXQdu"	2
+90	90	"Moderate traffic on Dum Dum Road in both directions near Ghughudanga. #KolkataTraffic
+Check live traffic updates @ http://t.co/hclChqXQdu"	1
+91	91	"Congested traffic on Mahatma Gandhi Rd near Bortola.  #KolkataTraffic
+Check live traffic updates @ http://t.co/hclChqXQdu"	0
+92	92	"Congested traffic on Ultadanga Flyover in both directions from B.A Block to D.A Block. 
+Check live #KolkataTraffic @ http://t.co/hclChqXQdu"	0
+93	93	"Congested traffic on DumDum Rd near Ghughudanga. #KolkataTraffic
+Check live traffic updates @ http://t.co/hclChqXQdu"	0
+94	94	"Slow moving traffic on V.I.P Rd towards Baguiati. #KolkataTraffic
+Check live traffic updates @ http://t.co/hclChqXQdu"	1
+95	95	"Slow moving traffic on Ultadanga Flyover in both directions near B.A Block. #Kolkata
+Check live traffic updates @ http://t.co/hclChqXQdu"	1
+96	96	"Slow moving traffic on Jessore Rd in both directions near Belgachia. #KolkataTraffic
+Check live traffic updates @ http://t.co/hclChqXQdu"	1
+97	97	"Smooth flowing traffic on Major Arterial Road (East-West) and (South-East). #Kolkata @ 18:40 Hrs
+http://t.co/0iGpqZKhYN"	2
+98	98	@ePandu During peak hours the usual route towards Airport is mostly congested. According to news sources commuters miss their flights.	0
+99	99	@ePandu Work on this flyover got started in 2012. PWD is yet to announce the official Inauguration dates. Do share our tweet :)	0
+100	100	"The 2km flyover from Kestopur to Joramandir on VIP Road is getting ready to be thrown open to traffic soon.
+Cc @mishrashiv @WeAreCalcutta"	2
+101	101	"Alert Info RT @abpnewstv: Kolkata: Three injured in Blast near Dam Dam railway station.
+#Kolkata"	0
+102	102	"Slow moving traffic on Dum Dum Rd towards Ghughudanga. #KolkataTraffic
+Check live traffic updates @ http://t.co/hclChqXQdu"	1
+103	103	Traffic to be diverted from any of the arterial roads by traffic police b/w 09-16 Jan 2015 due to ‘GANGA SAGAR MELA’ &amp; 'MAKAR SANKRANTI’.	0
+104	104	"Contruction of Park Circus Elevated Corridor. Is it still going on?
+Cc @WeAreCalcutta"	1
+105	105	"Traffic congestion on Grand Trunk Rd in both directions nr Mali Panchghara. 
+Check live #KolkataTraffic @ http://t.co/hclChqXQdu"	0
+106	106	"#Kolkata : Heavy traffic on Rabindra Setu Bridge on Both sides.
+http://t.co/0iGpqZKhYN"	0
+107	107	"Slow moving traffic on Utadanga Flyover in both directions near Ghose Bagan. #kolkata
+Check live traffic updates @ http://t.co/hclChqXQdu"	1
+108	108	"Traffic congestion on Canal Side Rd towards AG Block. #KolkataTraffic
+Check live traffic updates @ http://t.co/hclChqXQdu"	0
+109	109	"Slow moving traffic on Dumdum Rd towards Mitrabagan Basti. #KolkataTraffic
+Check live traffic updates @ http://t.co/hclChqXQdu"	1
+110	110	"Congested trafic on Grand Trunk Rd near Belur Math Railway on both side.
+Check live #KolkataTraffic @ http://t.co/NZXGc34tQm"	0
+111	111	"Slow moving traffic on Rabindra Setu towards Strand Rd.
+Check live #KolkataTraffic  @ http://t.co/NZXGc34tQm"	1
+112	112	"Congested traffic on Jessore Rd near Shyam Nagar.
+Check live #KolkataTraffic @ http://t.co/NZXGc34tQm"	0
+113	113	Traffic congestion on Church Rd in both directions nr Gopi Nath Bazar. #DelhiTraffic	0
+114	114	RT @divkaushik: Teen murti marg, shanti path choked @dtptraffic @TrafflineDEL @TrafficDEL	0
+115	115	RT @abhimago: Wonder what's wrong today with Ring Road AIIMS to Moti Bagh strech... @TrafflineDEL	0
+116	116	RT @iconohclast: As always, #ShantiPath traffic is terrible. Horribly terrible. @TrafflineDEL	0
+117	117	Traffic congestion in both directions on Ring Rd nr Vishwavidyalaya. #DelhiTraffic	0
+118	118	Traffic congestion in both directions on Patel Rd near Block 2 &amp; 4. #DelhiTraffic	0
+119	119	Slow moving traffic in both directions on Outer Ring Rd nr Haider Pur. #DelhiTraffic	0
+120	120	RT @kawaljit: @TrafflineDEL Outer Ring Road completely choked from Modi mills to Panchsheel. Avoid!	0
+121	121	RT @Forever_Tarun: Rainy day. #delhirains @TrafflineDEL http://t.co/vFECfnpgPY	1
+122	122	"Morning Delhi 
+Smooth Flowing traffic on all major roads in Delhi. #NewYear #winter "	2
+123	123	"RT @dtptraffic: TRAFFIC ADVISORY
+
+Movement of traffic remain heavy on every Tuesday and Saturday from Barf Khana Chowk to Azad... http://t.…"	0
+124	124	"@DeeptiSachdeva_ Thanks &amp; Same to you. Expect some traffic @ India Gate, rest is fine.
+Do check our app :)
+http://t.co/ckkBMW4cGi"	2
+125	125	RT @rkalia80: Traffic at a halt near Taj Mansingh round about @TrafflineDEL	0
+126	126	@DeeptiSachdeva_ Drive via Lajpat Rai Path, Dr Zakir Hussain Mg &amp; Ashoka Rd @dtptraffic	2
+127	127	@DeeptiSachdeva_ Slow moving and congested towards CP from Bangla Sahib on both sides. From where till where are you commuting? @dtptraffic	0
+128	128	@DeeptiSachdeva_ Congestion across CP on the nearby routes except KG Marg and Minto Bridge. Moderate traffic at Khan Market. @dtptraffic	0
+129	129	RT @shashanksaini: Huge traffic at India Gate... Please avoid... @BeatTrafficJams @TrafflineDEL	0
+130	130	RT @BeingAnupama: @TrafflineDEL excessive traffic volumes, human crowds causing problems in and around CP	0
+131	131	RT @BeingAnupama: @TrafflineDEL excessively heavy traffic in and around CP. Easily half hour from Barakhamba to CP inner circle. High traff…	0
+132	132	RT @LIITian_Scorpio: @TrafflineDEL I'm stuck on NH 8. Pls advice whts wrong if none knows..	0
+133	133	RT @domyowndance: @deMysterified @DelhiMetro_Rail so you're kind to #DelhiMetro #YellowLine at the cost of #BlueLine? 5min waiting, huge cr…	2
+134	134	RT @EsotericPhoenix: @lahirip yup...traffic is crawling on mg road towards Delhi and nh8 :/ or so i heard.	0
+135	135	RT @leishembaa: Almost 2 km long massive jam at safdarjung flyover avoid Aurobindo marg @dtptraffic	0
+136	136	RT @avishekgd: After 15 mins of red light, it turns green only for 10 secs at ITO. Pathetic management by @dtptraffic. Stuck for half hr. @…	0
+137	137	RT @bitspratik: That time of the day when a person driving a 7 seater SUV tweets and complains about traffic jams. cc @TrafflineDEL	1
+138	138	RT @sumitkushwaha: @trafflinedel Jam on pankha Road from delhicantt to Sagarpur	1
+139	139	RT @saiajith_a: Traffic on NH 8 towards iffco from delhi #traffic #ncr #happynewyear #2015 @TrafflineDEL @GurgaonPolice1 http://t.co/kho3kr…	1
+140	140	"@amardeep_sidhu MG Road is better to commute. 70-75 mins @ present.
+http://t.co/w3iGXvdWOq"	2
+141	141	"Slow moving traffic from Calcutta University towards Rabindra Setu.
+Check http://t.co/vd7XD5ytcB"	1
+142	142	"Slow movng traffic on Barackpore Trunk Rd. #KolkattaTraffic
+Check http://t.co/vd7XD5ytcB"	1
+143	143	"Congestion on raja Manindra Rd. towards Paikpara.
+Check http://t.co/hclChqXQdu"	1
+144	144	"Congested traffic on EM Bypass road near Ghose Bagan.
+Check live #KolkataTraffic @ http://t.co/NZXGc34tQm"	0
+145	145	"Slow moving traffic on Indira Gandhi Sarani towards Eden Gardens.
+Check live traffic @ http://t.co/hclChqXQdu"	1
+146	146	"Slow moving traffic on EM Bypass Rd. in both directions.
+Check live traffic @ http://t.co/hclChqXQdu"	1
+147	147	"Congested and Slow moving traffic on VIP Rd from Dashindari to   Rajarhat Rd. @19.50 hrs
+Check live traffic updates @ http://t.co/hclChqXQdu"	0
+148	148	"EM Bypass Road congested both directions at LB Block , Canal Circular Rd Jn at 19.45 hrs
+Check live traffic updates @ http://t.co/hclChqXQdu"	0
+149	149	"Slow moving traffic on VIP Road from Kaikhali to  Jessore Road @ 19.40 hrs
+Check live traffic updates @ http://t.co/hclChqXQdu"	1
+150	150	"Slow moving traffic on Rajghat Rd. towards Derozio Meorial College.
+Check live traffic updates @ http://t.co/hclChqXQdu"	1
+151	151	"Slow moving traffic on Dum Dum Rd. near Railway Crossing.
+Check live traffic updates @ http://t.co/hclChqXQdu"	1
+152	152	"Traffic congestion on VIP road near baguihati on both sides. #Kolkata #traffic 
+Check live traffic updates @ http://t.co/hclChqXQdu"	0
+153	153	"Moderate traffic on Nager Bazar Flyover on both sides. #Kolkata #traffic 
+Check live traffic updates @ http://t.co/hclChqXQdu"	1
+154	154	"Slow moving traffic on CA Rd towards Bagh Bazar.
+Check live traffic updates @ http://t.co/hclChqXQdu"	1
+155	155	"Traffic congestion on Raibindra Pally road on both sides. #Kolkata #Traffic
+Check live traffic updates @ http://t.co/vd7XD5ytcB"	0
+156	156	"Slow &amp; Moderate traffic on Dum Dum road on both directions. #Kolkata #traffic 
+Check live traffic updates @ http://t.co/hclChqXQdu"	1
+157	157	"Slow moving traffic on CA Rd towards Bagh Bazar.
+Check live traffic updates @ http://t.co/hclChqXQdu"	1
+158	158	"Slow moving traffic on AJC Bose Rd. near Rabindra Sadan.
+Check live traffic updates @ http://t.co/hclChqXQdu"	1
+159	159	"Patches of slow moving traffic on EM Bypass Rd. in both drections.
+Check live traffic updates @ http://t.co/hclChqXQdu"	1
+160	160	"Traffic congestion on Narkeldanga  main road near Phool bagan. #TrafficKolkata
+Check live traffic updates  http://t.co/hclChqXQdu"	0
+161	161	"Slow moving traffic on Rajarhat road on both sides. #Kolkata #traffic 
+Check live traffic updates @ http://t.co/hclChqXQdu"	1
+162	162	"Slow moving traffic on EM Bypass road on both sides. #Kolkata #traffic 
+Check live traffic updates @ http://t.co/vd7XD5ytcB"	1
+163	163	"Slow moving traffic on Indra Gandhi Sarani from Bortola to Eden 
+Check live traffic updates @ http://t.co/vd7XD5ytcB"	1
+164	164	"Slow moving traffic from  Calcutta University to Rabindra Setu.
+Check live traffic updates @ http://t.co/vd7XD5ytcB"	1
+165	165	"Slow moving traffic on EM Bypass Rd. in both directions.
+Check live traffic  @ http://t.co/hclChqXQdu"	1
+166	166	"Slow moving traffic on CA Rd. in both directions.
+Check Live Traffic @ http://t.co/hclChqXQdu"	1
+167	167	"Heavy traffic after Rabindr Setu towards CA Rd. and Strand Rd.
+Check Live Traffic @ http://t.co/hclChqXQdu"	0
+168	168	"Slow moving traffic on EM Bypass near Ajoy Nagar.
+Check Live Traffic @ http://t.co/hclChqXQdu"	1
+169	169	"Congested traffic on Major Arterial Road from Titumir Metro St towards Chinar Park.
+Check live #KolkataTraffic @ http://t.co/NZXGc34tQm"	0
+170	170	"Slow moving traffic on VIP Road near Shreebhumi on both side.
+Check live #KolkataTraffic @ http://t.co/NZXGc34tQm"	1
+171	171	"Slow moving traffic on Debendre Lal Khan Road near SSKM Hospital.
+Check live #KolkataTraffic @ http://t.co/QYhoIVpcoU"	1
+172	172	"Slow moving traffic on Barackpore Trunk Rd near Narendra Nagar.
+Check live #KolkataTraffic @ http://t.co/QYhoIVpcoU"	1
+173	173	"Slow moving traffic towards Rabindra Setu from CA Road, Poddar Court @20.50 hrs
+Check live #KolkataTraffic @ http://t.co/vd7XD5ytcB"	1
+174	174	"Slow moving traffic on EM Bypass Road near Ghose Bagan.
+Check live #KolkataTraffic @ http://t.co/vKB6dXbMlV"	1
+175	175	"Congested traffic on Rajarhat near Taltala towards Teghoria.
+Check live #KolkataTraffic @ http://t.co/vKB6dXbMlV"	0
+176	176	"Congested traffic on AJC Bose Road Flyover near Rabindra Sadan Metro.
+Check live #KolkataMetro @ http://t.co/vKB6dXbMlV"	0
+177	177	"RT @saiajith_a: Can you do something for traffic jam on railway road near jacubpura and nai basti??
+@TrafflineDEL @GurgaonPolice1"	1
+178	178	RT @aparna_jain: Never ever ever. Aurobindo marg. #traffic from IIT to aiims. @TrafflineDEL	0
+179	179	RT @monsieursoupier: When are we getting rid of these damned #BRTs? Stuck in Chirag Dilli for the past half an hour. @TrafflineDEL	0
+180	180	RT @tweets_manish: Truckand car accident on fbd-ggn road at ggn entry near qutub enclave. Huge pile up.@TrafflineDEL @DelhiTrafficPol	0
+181	181	RT @Harjeev: Guys headed to #Bhiwadi Dharuhera Jaipur on Nh8, be prepared for a 15min wait time at #Bilaspur Pataudi intersection on #NH8 @…	0
+182	182	RT @amanpaggarwal: @TrafflineDEL @Harjeev is SP Marg still closed? Any idea why and till how long?	0
+183	183	"ALERT
+Parking of all types of vehicles has been restricted for 24 hrs.of the day on Baba Kharak Singh Marg near Hanuman Mandir ."	0
+184	184	RT @Isay_Chaps: @TrafflineDEL barapullah approach rd towards Kale khan choked. Take it if u must. :-) #traffucked	0
+185	185	"Traffic is heavy from Moolchand to Ashram,Nehru nagar &amp; DND flyover to Ashram due to road repair work.
+Check @ http://t.co/1GguR5zOwx"	0
+186	186	"Due to some VVIP Programs traffic will remain heavy at C hexagon, India Gate, Ashoka Road etc.  
+Check @ http://t.co/1GguR5zOwx"	0
+187	187	"Traffic is heavy from Ring Road to St. Martin Marg.
+Check live traffic updates @ http://t.co/1GguR5zOwx"	0
+188	188	RT @sutanu: Is there no clear way to go from Delhi to udyog vihar, Gurgaon today.. Dhaula kuan is choked and so is outer ring rd (VV) @Traf…	0
+189	189	RT @saurabhsgarg: @TrafflineDEL @narendramodi traffic situation worsens in netaji subhash place, Pitampura  due to illegal parking on roads.	0
+190	190	RT @Traveluscious: @VVT1910 2 hours from Dwarka to Hauz Khas. Check @TrafflineDEL updates or application before starting. Heard on fm Pansc…	0
+191	191	RT @JayaswalRajeev: @TrafflineDEL again Jam at Janpath ... VIP problem!	1
+192	192	RT @BiancaGhose: The stretch between the Supreme Court and Sundar Nagar. Yawnnn #Delhi #traffic @TrafflineDEL http://t.co/bRroMKXj9h	2
+193	193	RT @aknarendranath: @TrafflineDEL Most unfortunate. RTR Marg clogged. Avoid if possible.	0
+194	194	RT @BiancaGhose: Everything's stationary from Sundar Nagar to CP, even the India Gate circle! Avoid. Once in - an hour atleast. #traffic @T…	0
+195	195	RT @prasanto: Two and a half hours from DLF5 to Shangri-La near CP. I hope Beijing will also shut down for Modi. (Why didn't I take the Met…	0
+196	196	RT @journopragya: Outer Ring Road clogged; massive traffic snarls likely in evening #XiInDelhi #FarFromSmartCity	0
+197	197	RT @anand_varma: 1 hr long traffic jams at India Gate and arterial roads due to Chinese President's visit #Delhi @firstpostin	0
+198	198	RT @suneeratweets: Please avoid India Gate right now. Blocked roads and traffic that won't move.	0
+199	199	RT @iRJPrateek: Multiple tractors full of drunk men wreaking havoc on the road. Kalindi Kunj toward Sarita Vihar. Shouting, disrupting traf…	0
+200	200	RT @pallavighcnnibn: Empty roads- courtesy xi in india http://t.co/4ol5z4FWff	2
+201	201	RT @NeelamKapur: @dtptraffic please move traffic on outer ring road towards airport . People will miss their flights otherwise.	1
+202	202	RT @souvikdg: Whattay epic traffic situation! 2 hours and counting in a bus from Dwarka and still haven’t got into South Delhi. Thankfully …	0
+203	203	Delhi Traffic advisory for China Premier’s Visit on 18th September 2014 http://t.co/otcCMfMVJv	1
+204	204	"China Premier's Visit - Routes to be avoided. Check http://t.co/otcCMfMVJv for complete details.
+Cc @DILIPtheCHERIAN http://t.co/bcuW2jbrvB"	1
+205	205	@butsandifs Use Akbar Road and take first left onto Man Singh Road. Live updates @ http://t.co/Fuzyj3zPcq	2
+206	206	RT @BeingAnupama: @TrafflineDEL entry to KG Marg from India Gate circle  is closed for traffic due to Chinese delegation movement	0
+207	207	RT @duak: @TrafflineDEL ITO to mathura road via Pragati Maidan completely choked as well	0
+208	208	@Ghair_Kanooni Go via Barakhamba Rd after ITO. http://t.co/Fuzyj3zPcq	2
+209	209	"#Delhi Routes to avoid at present :
+- Ring Road &amp; NH8 towards Dhaula Kuan.
+- Sardar Patel Marg
+- Ashoka Rd
+Cc @smitaprakash @madversity"	0
+210	210	@Ghair_Kanooni Best route : Take the Noida Link rd till Laxmi Nagar, go via ITO. Where exactly are you headed?	2
+211	211	RT @JayaswalRajeev: @TrafflineDEL massive jam at Dhaula Kuan bcoz SP marg closed 4 VIP. An early warning wd hv helped common man!	0
+212	212	RT @faujdardev: Stucked in Jam on Delhi - Meerut road. Political parties making a mess http://t.co/TRQuwQqxMC	1
+213	213	Major traffic hassles around India Gate/Hyderabad House. Tibetan protesters the cause for the same. Pic @smitaprakash http://t.co/74KrBQ7p3x	0
+214	214	RT @SidSaikia: @TrafflineDEL @dtptraffic #indiagate circle still not clear...traffic too slow	1
+215	215	RT @upadhyaysbjp: #delhi to have dedicated lanes for emergency vehicles. Have written to LG Delhi for the same. @BJPDelhiState http://t.co/…	2
+216	216	"ALERT
+Movement of traffic remain heavy on every Tuesday and Saturday from Barf Khana Chowk to Azad.. http://t.co/o2faJhYzXg
+via @dtptraffic"	0
+217	217	"Slow moving traffic in both directions on Outer Ring Rd nr Haider Pur. #DelhiTraffic
+Check live traffic updates @ http://t.co/1GguR5RpEB"	1
+218	218	"RT @dtptraffic: Traffic Advisory
+
+As per order of National Green Tribunal no vehicles will be parked in Karol Bagh market area on... http:/…"	2
+219	219	RT @NavinBansal: “@airnewsalerts: #HimachalPradesh: Higher reaches continue to experience light to moderate snowfall. http://t.co/oxsZj5P8u…	1
+220	220	"Traffic congestion on Shankar Rd towards Rajinder Nagar. #DelhiTraffic
+Check live traffic updates @ http://t.co/1GguR5RpEB"	0
+221	221	RT @SanjayBhartiye: @TrafflineDEL :Huge traffic  at NH8 near BIJWASAN from  Gurgaon  to Dhaulakua at 19:40 http://t.co/zhEIuVXWdH	0
+222	222	"Traffic congestion on Max Mueller Marg towards Lodhi Rd. #DelhiTraffic.
+Check live traffic updates @ http://t.co/1GguR5RpEB"	0
+223	223	RT @kittusen: @TrafflineDEL ggn mehrauli rd choked.	0
+224	224	RT @manoj61agarwal: @TrafflineDEL heavy traffic on Ring Road upto ISBT.	0
+225	225	RT @hsalve: Alas- something's don't change easy. Traffic jam on Akbar Road as cars parked all along - two and at times three side by side.	1
+226	226	"Traffic congestion on Safdarjung Rd towards Delhi Race Club. #DelhiTraffic
+Check live traffic updates @ http://t.co/1GguR5RpEB"	0
+227	227	"Smooth flowing traffic on Delhi Noida Direct Flyway. #DelhiTraffic
+Check live traffic updates @ http://t.co/1GguR5RpEB"	2
+228	228	"RT @chandiyabhai: \ We should give Space for Emergency Vehicles. #OnRoadResolution 
+@TrafflineDEL"	2
+229	229	RT @likesharad: @TrafflineDEL NT8 chocked up towards gurgaon till iffco chauk	0
+230	230	#DelhiMetro: Interchange facility for Line2 (HUDA City Centre Jahangirpuri) &amp; Line-3/4 (Dwarka Sec-21 Noida City Centre/Vaishali) available.	2
+231	231	#DelhiMetro : No entry &amp; exit will be allowed today at #RajivChowk metro station after 9 PM in view of security restrictions.	1
+232	232	RT @shrutsays: @TrafflineDEL Its a bright sunny morning. Almost zero traffic. Has to be coz of 31st Dec.	2
+233	233	"ALERT
+An LGV  has broken down near AIIMS bus stop, in the carriageway running from Moolchand towards AIIMS, causing congestion. #Delhi"	0
+234	234	"Morning #Delhi 
+Free Flowing traffic on all major roads in Delhi. 
+#winter #Traffline
+Check live traffic updates @ http://t.co/1GguR5RpEB"	2
+235	235	RT @saumya_khare: @TrafflineDEL CP inner circle badly choked	0
+236	236	@saumya27 Slow moving till windsor Palace thereafter fine . At  India Gate traffic is moving fine.	2
+237	237	"Badly Congested traffic near Jhandewalan Metro Stn and it access roads @ 19.30 hrs #Delhi 
+Check @ http://t.co/1GguR5RpEB"	0
+238	238	RT @DelhiCandid: Delhi traffic Jammed packed at Chawari Bazaar GB Road Ajmeri Gate  New Delhi Railway station Due to Tazia Jaloos. @dtptraf…	0
+239	239	RT @arpiit: ITO signal is amazingly frustrating. Waiting for a green light for last 9 min towards Tilak Marg :( @TrafflineDEL	0
+240	240	RT @DKMahant: Spent more than an hour but couldn't get inside Asaf Ali Road due to procession. @TrafflineDEL	0
+241	241	"ALERT
+Avoid Inter Sections Outer Circle Connaught Place, Sansad Marg, Ashoka Road, Patel Chowk due to Tazia Procession."	1
+242	242	"Slow moving traffic on Nirman Vihar Metro Junction. #DelhiTraffic
+Check live traffic updates @ http://t.co/1GguR5RpEB"	1
+243	243	"Traffic congestion on Vikas marg near Preet Vihar on both sides. #DelhiTraffic
+Check live traffic updates @ http://t.co/1GguR5RpEB"	0
+244	244	"Traffic congestion on Outer Ring Road From Rohtak Road to Mahavir nagar on both sides. #DelhiTraffic
+Check @ http://t.co/1GguR5RpEB"	0
+245	245	"Moderate traffic on Najafgarh road on both sides. #Delhitraffic 
+Check live traffic updates @ http://t.co/1GguR5RpEB"	1
+246	246	"Slow moving traffic on Rohtak Road near Anad parbat on both sides. #Delhitraffic
+Check live traffic updates @ http://t.co/1GguR5RpEB"	1
+247	247	"Traffic congestion on Qutab road. #DelhiTraffic 
+Check live traffic updates @ http://t.co/1GguR5RpEB"	1
+248	248	"Traffic is heavy on Neta Ji Subhash Marg Darya Gang due to Tazia procession. #Delhi @ 14:29 Hrs
+http://t.co/ckkBMW4cGi"	0
+249	249	"Traffic Congestion near Mori Gate. #DelhiTraffic
+Check live traffic updates @ http://t.co/1GguR5RpEB"	0
+250	250	"Moderate traffic on Old iron bridge. #DelhiTraffic
+Check live traffic updates @ http://t.co/1GguR5RpEB"	1
+251	251	"Traffic congestion near Nutan Marathi School o both sides. #Delhitraffic
+Check live traffic updates @ http://t.co/1GguR5RpEB"	0
+252	252	RT @viveksonkhla: Oil. Tanker breakdown at southex flyover going towards. Aims @TrafflineDEL @dtptraffic	0
+253	253	"RT @viveksonkhla: Oil Tanker breakdown at southex flyover going towards AIIMS.
+http://t.co/ckkBMW4cGi"	0
+254	254	RT @coraliabali: Look how dense the fog, make u can't see the India Gate. Safe driving OK. #Delhi #foggy http://t.co/ZGuJPcqhMw	1
+255	255	RT @KheraVineet: Traffic crawling around shiv murti #nh8. Avoid using service lane after Radisson.  Its even worse there. @TrafflineDEL	0
+256	256	"ALERT : NH8 jammed from Mahipalpur till Gurgaon Toll. Use M G Road to avoid the traffic.
+http://t.co/ckkBMW4cGi http://t.co/b54sPBCLlZ"	0
+257	257	RT @aastha_leo: @TrafflineDEL traffic on mahipalpur flyover NH8 due to bad accident. Avoid.	0
+258	258	RT .@divkaushik: Dhaula Kuan at 8 am. Drive safe @dtptraffic @TrafflineDEL @TrafficDEL http://t.co/pO9Qc89833	2
+259	259	"Morning #Delhi 
+Smooth Flowing traffic on all major roads in Delhi. 
+#winter #Traffline
+Check live traffic updates @ http://t.co/1GguR5RpEB"	2
+260	260	"Slow moving traffic on Ring Road near Mayapuri towards Sharda Puri. Delhi @ 22:00 Hrs
+http://t.co/ckkBMW4cGi"	1
+261	261	"Connaught Place and India Gate - traffic free at present. #Delhi @ 21:57 Hrs.
+http://t.co/ckkBMW4cGi"	2
+262	262	"Slow moving traffic on Outer Ring Road near Jahangirpuri. #Delhi @ 21:37 Hrs
+http://t.co/ckkBMW4cGi"	1
+263	263	"Moderate traffic at Ashram Chowk. #Delhi @ 21:36 Hrs.
+http://t.co/ckkBMW4cGi"	1
+264	264	"NH8 is a bliss today @ this time. #Delhi @ 20:43 Hrs
+http://t.co/1GguR5RpEB"	2
+265	265	"Slow moving Traffic on Ring Road after Dhaula Kuan towards Naraina. #Delhi @ 20:42 Hrs
+http://t.co/ckkBMW4cGi"	1
+266	266	RT @kapil_vashisht: DnD-Ashram-sirifort-IIT traffic free amazing #Relief @dtptraffic @TrafflineDEL	2
+267	267	RT @FuglyEgo: Pavements are wonderful. Only if they are left for pedestrians to walk. @TrafflineDEL	2
+268	268	RT @jb_returns: Plz avoid iffcco chowk.  very heavy traffic jam.. its been 50mins.. I am stuck at same place @TrafflineDEL @Traffline http:…	0
+269	269	RT @shashanksaini: 4 signals and counting at Moti Bagh flyover towards RTR @TrafflineDEL signals running for very small time	1
+270	270	RT @Sudhanshu1: @dtptraffic @WeAreNewDelhi Heavy traffic on Brig Hoshiar Singh Marg near SN market because if this accident. #fb http://t.c…	0
+271	271	A DTC Bus has broken down at Swami Nagar bus stop, in the carriageway from I.I.T. towards Chirag Delhi, causing congestion.	0
+272	272	RT @Bsatyaki: @TrafflineDEL - 25 mins and still haven't managed to cross RTR into ORR. Signal runs for 35-45secs.	0
+273	273	"Moderate and slow moving traffic on NH 8 near Dhaula kuan on both sides. #DelhiTraffic
+
+Check live traffic updates @ http://t.co/oM2RwqmYmL"	1
+274	274	RT @Dak_Sriv: #NH8 #Traffic diverted towards iffco chowk.. NH8 closed from exit 6, opposite Iffco. @TrafflineDEL	2
+275	275	RT @dtptraffic: Traffic is normal at Bhismapitamah Marg &amp; Lodhi Road.	2
+276	276	Due to C.R.P.F Half Marathon Race traffic coming towards Lodhi rd will be restricted on 12th oct 2014 from 6.00hrs to 12.00hrs.#DelhiTraffic	1
+277	277	RT @Saptarshi77: @TrafflineDEL @dtptraffic  Massive traffic jam in Vasundhara Enclave from Dharamshila Hospital to Sec 7 Noida	0
+278	278	RT @Kaamaljoshi: Red Light at Sec51,Noida is a complete mess. If traffic police starts fine at this crossing, I am sure they will collect h…	0
+279	279	RT @nairshashank: @dtptraffic why are traffic lights at all major intersections in Dwarka always down during peak hours @TrafflineDEL	0
+280	280	RT @bharat_anand: @TrafflineDEL south ex to aiims a bus broken down on each flyover... Totally jammed	0
+281	281	@AshwaniGmail M G Road seems clear after Chattarpur. Check http://t.co/7bcAJjp19K	2
+282	282	"TRAFFIC!
+DMRC work is going on Ring Road before Mayapuri Flyover and the road has been narrowed through barricading.
+http://t.co/7bcAJjp19K"	1
+283	283	RT @Nk461512: @dtptraffic moolchand underpas ke thik nichey orange bus ruki hai.traffic over hai ring road pe	1
+284	284	@monicamor NH8 is smooth flowing today. Check http://t.co/7bcAJjp19K	2
+285	285	Due to C.R.P.F Half Marathon Race traffic coming towards Lodhi rd will be restricted on 12th oct 2014 from 6.00hrs to 12.00hrs.#DelhiTraffic	1
+286	286	RT @aarizrizvi: Those who are heading to the airport will miss their flight for sure @TrafflineDEL http://t.co/ba2sjustpv	0
+287	287	"Slow &amp; Moderate traffic on Sardar Patel Marg on both sides. #DelhiTraffic 
+Check live traffic updates @ http://t.co/1GguR5zOwx"	1
+288	288	RT @sangmitrasawant: @TrafflineDEL jam at moolchand underpass toward south ex!	1
+289	289	RT @dtptraffic: In the peak hours, Traffic will remain heavy in the carriageway from Narayana towards Rajouri Garden because DMRC... http:/…	0
+290	290	"Traffic congestion on Mualna Mohammad Ali Jauhar Marg on both sides.#DelhiTraffic 
+Check live traffic updates @ http://t.co/1GguR5zOwx"	0
+291	291	"@MystiqueWanderr DND is clear at this moment. Slow moving traffic near Ashram on all roads .
+Check @ http://t.co/1GguR5zOwx"	2
+292	292	RT @sandeepmoonka: #Gurgaon major traffic jams across. @TrafflineDEL	0
+293	293	RT @dtptraffic: Traffic is heavy in the carriageway running from Gurgaon towards Dhaula Kuan.	0
+294	294	RT @dtptraffic: Traffic is heavy in the carriageway running from RTR towards Vasant Vihar.	0
+295	295	RT @mdipankar79: @TrafflineDEL avoid GK1 Main market Street at any cost at this time... Complete gridlock and people are driving like looni…	0
+296	296	"ALERT
+A DTC bus has broken down at Raj Nagar Flyover in the carriageway running from AIIMS towards Dhaula Kuan, causing congestion."	0
+297	297	"Slow moving traffic on Nh8 near Dhaula kuan on both sides.#Delhitraffic 
+Check live traffic updates @ http://t.co/1GguR5zOwx"	1
+298	298	"Traffic congestion on Mathura road near Ashram on both sides.#Delhitraffic 
+Check live traffic updates @ http://t.co/1GguR5zOwx"	1
+299	299	RT @tweets_manish: All markets jam packed. #karvachauth rush it is. Took 15minutes to cross alakhnanda @DelhiTrafficPol @TrafflineDEL	0
+300	300	RT @Superneha83: Gurgaon to T3 completely jammed. If I had a flight to catch I'm pretty sure I would've missed it. @TrafflineDEL	0
+301	301	RT @dyoungbigmouth: Super massive jam from Noida to ashram on DND @TrafflineDEL	0
+302	302	RT @Sidpraz: Huge traffic in dnd toll towards Noida @TrafflineDEL	0
+303	303	RT @Me_my_tweets: If you are coming from dwarka towards mahipalpur, traffic is slow moving near shiv murti at 8.40 A.M. @TrafflineDEL	1
+304	304	RT @dtptraffic: Raj path &amp; Rafi Marg has been closed . Raj path is open for pedestrian with barricading.	2
+305	305	RT @saumya_khare: @TrafflineDEL heavy traffic between qutub minar and green park.	0
+306	306	Power supply to Andheri signal cabin restored on WR Mumbai railway. But it will take a while for train services to normalise …	0
+307	307	"ALERT
+Rd work at Sion, Dr.B.A.Rd, near Gandhi Market, Motorists going to South Mumbai are Advised to use Eastern Frwy or Chembur Mahul Rd."	0
+308	308	Heavy traffic at Oberoi mall.	0
+309	309	TrafflineMUM asked the railroad engineer.the signal is fixed.. Things are restored.	2
+310	310	stuck @Vile Parle stn last 18 mins...technical snag..trains late by upto 37 mins..#mumbailocal @smart_mumbaikar  @TrafflineMUM	0
+311	311	Slight traffic at borivali west.	1
+312	312	 stuck @ Jog stn last 30 mins...technical snag..trains late by upto 40 mins..#Chaos	0
+313	313	 Slight traffic from Andheri to VT since 10.	1
+314	314	 No traffic near Nariman point.Surprising!!	2
+315	315	Crazy rush on western line station/local trains. Running very late for some signaling issue. 	0
+316	316	 Cars driving on wrong side at the end if Ghatkopar entry to Eastern Freeway. Route on a standstill.  	1
+317	317	WEH southbound  clear at 10.30am. Ultra smooth.  What a wonder!	2
+318	318	 primarily it was on Jogeshwari, just reached andheri somehow 	2
+319	319	 Signal failure at Andheri on WR Mumbai railway. Trains delayed 	0
+320	320	Technical snag in control panel of signals at Andheri.  	0
+321	321	  one of the southbound lanes at matunga flyover dug up . Very slow moving traffic .	0
+322	322	 Power supply from reliance to Andheri control panel of WR failed, trains came to almost standstill on all the lines.	0
+323	323	Medium traffic at Dadar.OMG impossible	1
+324	324	 thankfully highway freeflowing. Malad to Santacruz in 25 mins by rick. Am I dreaming!!!!	2
+325	325	 WR towards Churchgate only.. BO trains are running on time ..	2
+326	326	 Trains on western line are late due to technical glitch around Andheri station. Expect a lot of traffic on highw…	0
+327	327	 was stuck at parle signal for 30 mins 	0
+328	328	 There seems to be some signal problem at Jogeshwari and hence i am getting late for office.	0
+329	329	  #akurli road majot jam .to add to the woes tata power has dug up the rest of the road. Who gives permission …	0
+330	330	Very few cars and taxis on King's Cir Flyover	2
+331	331	 Signal failure at #Andheri. Stuck at traffic jam for 30 min	0
+332	332	" Looks like a lot of people going out for vacation today. Long queues at N/B dahisar naka. Happy holidays... :)
+@TrafflineMUM"	0
+333	333	"ALERT
+Due to a major accident on Sion hospital flyover roads are blocked "	0
+334	334	 Medium traffic near dy patil stadium	1
+335	335	Slight traffic at borivali east.	1
+336	336	 @TrafflineMUM announcement in my Churchgate bound train from borivli-train's delayed due to overhead breakdown  problem.S…	0
+337	337	 Due to technical problems north bound WR running 15-20 mins late.	0
+338	338	Major accident at Sahar road.Roads are completely blocked.	0
+339	339	  S/B traffic slow near Sion hospital and Gandhi market.	0
+340	340	Traffic Signal not working at vashi road .people are driving messy	0
+341	341	"Slow moving traffic on Bandra Worli Sealink toll on both side.
+Check live #MumbaiTraffic @ http://t.co/OHmn68q56u"	0
+342	342	"Slow moving traffic on WEH S/B from Vile Parle towards Bandra.
+Check live #MumbaiTraffic @ http://t.co/TQv7yYfEY2"	0
+343	343	Very Few cars on bandra worli sea link	2
+344	344	 oh no ..today will be mad traffic of people leaving Mumbai for christmas vacation at Aarey road.	2
+345	345	Clear powai road.Bliss morning!	2
+346	346	 EEH n/b slow moving from godrej soaps @5.55 pm..Unusual place for traffic	1
+347	347	  Mysteriously low traffic at eastern highway.	2
+348	348	 Give way to ambulance? I always do &amp; face angry honking from other drivers, esp rickshaws &amp; private taxis.	0
+349	349	 Ambulance shrieking on JVLR towards WEH, no one bothered to (or can, if they want to) give way..	0
+350	350	 Yo, took me 60 minutes to reach the sea-link from Wilson College via Pedder Road. Commuters, avoid!	1
+351	351	 all clear good to go :)	2
+352	352	The biggest crime which every1 do is playing with smeone's life everyday...Hope traffc officials read this.	0
+353	353	  Avoid Lalbaug Flyover S/b looks crazy jammed upto JJ Flyover, can someone tell me whats happening.??	0
+354	354	Moderate traffic near Andheri East.	1
+355	355	moderate traffic for	1
+356	356	fire on the road and heavy congestion	0
+357	357	 moderate traffic because	1
+358	358	In my last 15 years spent in Bombay.. NEVER stuck so much! and it makes me sick !!	0
+359	359	moderate traffic due to	1
+360	360	Smooth highways and deserted roads are the best!	2
+361	361	 Like any optimistic Mumbaikar the goal of my life is not to die waiting for or in an ambulance, stuck in peak…	0
+362	362	" Point out some best technologies to help Ambulances while stuck in Traffic.
+"	0
+363	363	 clear roads due to	2
+364	364	clear roads because	2
+365	365	"Slow moving traffic on JVLR  towards WEH from Mahakali Petrol Pump.
+"	0
+366	366	Traffic from Mumbai passing through Vashi toll is bad 	0
+367	367	Empty roads at Vashi road	2
+368	368	Traffic at andheri east west bridge at dis hour! 	0
+369	369	 Powai to Borivali, flat 1hr! Great going! Enjoyed the travel :) @InfoMumbai @TrafflineMUM @smart_mumbaikar #Mumbai	2
+370	370	Very slow traffic	0
+371	371	 Lokhandwala once again traffic jammed due to double triple parking. Unwanted chaos. Authorities please help. 	0
+372	372	Average traffic for	1
+373	373	 For a change the old vashi bridge is full of traffic..traffic on new one slow moving 	0
+374	374	Entered Dharavi road @ 8:06 and now its 8:22 still not reached half way 	0
+375	375	Dahisar toll to Mira road traffic is getting worse day by day.	0
+376	376	No traffic because	2
+377	377	 chedda nagar signal horribly trafficked	0
+378	378	they got rid of most of the hawkers on the dadar fob. It is such a breeze now. Wish Obama visited daily!	2
+379	379	Weh nb below aarey flyover is clogged! Please avoid! Stuck there since 20 mins! 	0
+380	380	Vehicles clogged due to accident on Mumbai-pune road	0
+381	381	All vehicles at a complete standstill on Saki Vihar Road towards Chandivli junction.	0
+382	382	Blocked road 	0
+383	383	 horrible accident on Vashi bridge between two cars and a bike. Please drive safely people	0
+384	384	 Every evening malad link road to lokhandwala is trafficked. Slow slow moving traffic. @TrafflineMUM	0
+385	385	Roads are crowded because	0
+386	386	totally screwed up traffic near Race Course and Mahalaxmi Stn. Bumper to bumper. Both sides !!	0
+387	387	Roads clear from Hiranandani - seepz moving traffic till bisleri	2
+388	388	 Surprisingly very low traffic in andheri new link road at Lokhandwala	2
+389	389	 Hanuman Road crossing near suncity cinema hall is totally #trafficked please avoid 	0
+390	390	Note : Chunabhatti level crossing gate will remain closed b/w 7:25 am - 10:30 am 	0
+391	391	Traffic on the slip road n/b near parla subway towards hanuman road parla East 	0
+392	392	Andheri East : Bad traffic at Saki Naka Jn from all directions.	0
+393	393	 Slow movement of traffic from Vile Parle till Andheri, congested ahead on WEH.	0
+394	394	roads are free	2
+395	395	Slightly crowded	1
+396	396	 road from vakola to WEH completely trafficked.	0
+397	397	 Crossing Holy Spirit Hospital. Bang on gate traffic jam. Can't help the ambulance behind with sirens. 	0
+398	398	Slow moving traffic 4m Bisleri - Telli Gali	0
+399	399	" Slow down after Andheri till Oberoi Mall and congestion near JVLR Jn.
+"	0
+400	400	 Milan subway jammed towards S V road. Need to take it coolly saying its Mumbai.. Hota rehta hai	0
+401	401	crowd roads	0
+402	402	 Can't believe it's Monday as complete clear roads almost in 15mins I am at Bisleri Signal 	2
+403	403	normal traffic 	1
+404	404	speed below 20kmph	0
+405	405	 clear road 4m Hiranandani - Seepz	2
+406	406	 foot over bridge badly needed at darpan-weh junction. Ppl going to andheri station cause major traffic jam n is v…	0
+407	407	4 fire engines on the Sena Bhawan to Plaza Theatre stretch. Blocking one lane. #Mumbai @ 17:50 Hrs	0
+408	408	" if travelling towards dahisar do not take the opposite lane on Aarey flyover it is jam 
+#mumbai"	0
+409	409	 Its moderate now.	1
+410	410	"Truck stalled at Kandivali, western Express Highway, near Mahindra and Mahindra traffic towards Malad is slow.
+#MumbaiTraffic"	0
+411	411	"An Accident between two vehicles at Western Express highway, on Exit of Airport flyover, traffic towards Andheri is slow.
+#MumbaiTraffic"	0
+412	412	"Slow moving traffic on EEH from Dadar Tilak Colony towards Byculla West Mustafa Bazar.
+"	0
+413	413	Traffic  smooth from Dadar Gokhale Rd towards Tilak Bridge.	2
+414	414	@superselector5 Smooth traffic on Cadell Rd Good to use.	2
+415	415	normal cars	1
+416	416	RT @wohwaalavivek: Avoid taking Linking Road to Juhu.  Cars not moving at all.   #Mumbai #traffic	0
+417	417	Some slow down after CST Road, otherwise good to go :) #SCLR	1
+418	418	Due to Mayors Marathon Held on 21 in Vasai-Virar City Main Road will be closed from 08:00AM to 11:00AM. htt…	0
+419	419	Prime minister coming on the road	2
+420	420	Smooth  traffic on JVLR at present. 	2
+421	421	 pleasantly surprised by free flowing Tulsi Pipe Rd all the way from Dadar to Mahalaxmi. Christmas coming ear…	2
+422	422	RT @AajayBundela: Traffic congestion @ cross roads of WEH / Oberoi Mall towards SV Road Goregaon  - else clear road @TrafflineMUM @Trafflin…	0
+423	423	Traffic is moderate on WEH South bound from Malad. #Mumbai 	1
+424	424	Traffic from Juhu to Bandra, very irritating now a days. 	0
+425	425	"ALERT
+Truck stalled at Western Express Highway, on Jogeshwari Flyover, traffic towards Andheri is slow."	0
+426	426	roads closed bcoz of riots Rafi Ahmed Kidwai Marg	0
+427	427	"Morning Mumbai
+Good to go roads at this moment: 
+Eastern Freeway, EEH , WEH, Bandra-Worli Sealink &amp; JVLR."	2
+428	428	full of traffic	0
+429	429	average traffic due to	1
+430	430	average traffic because	1
+431	431	hefty traffic because	0
+432	432	hefty traffic due to	0
+433	433	roads packed due to	0
+434	434	" "" North bound eastern freeway has 5 km long jam""
+Traffic is slow moving, "	0
+435	435	Accident in thane on highway opp Viviana mall. Avoid if possible .lots of onlookers.	0
+436	436	fire broke on vasai road which is causing high traffic	0
+437	437	traffic is quiet hefty	0
+438	438	low frequency of vehicles	1
+439	439	high frequency of vehicles	2
+440	440	avoid going to juhu road	0
+441	441	roads are empty	2
+442	442	roads deserted due to	2
+443	443	Due to falling of old trees road is blocked	0
+444	444	low frequency of vehicles due to	1
+445	445	Due to Public agitation, Central Railway service is disrupted.	0
+446	446	Accident on Mahul Rd avoid going	0
+447	447	Pls find alternate road from 	0
+448	448	current traffic situation is okay	1
+449	449	"Police van set on fire by angry commuters
+Stone pelting on trains
+
+
+"	0
+450	450	driver injured as tree falls on road	0
+451	451	Reached home astonishing early	2
+452	452	duration of travel was just 10 min	2
+453	453	travel time was very less	2
+454	454	frequency of vehicles is reduced	1
+455	455	heavy traffic	0
+456	456	no traffic due to	2
+457	457	no traffic on Gaondevi Marg	2
+458	458	Andheri rd:roads cant be this better	2
+459	459	Truck toppled at babasahed ambedkar rd	0
+460	460	empty roads 	2
+461	461	"RT @gr8xpectationss: Western line from Borivali to Chruchgate running late by 15 mins  ..#MumbaiLocal 
+@TrafflineMUM"	0
+462	462	Truck stalled at Parel TT Jn, traffic towards Elphinstone bridge is slow.	0
+463	463	"Southbound congestion on WEH near Goregaon.
+Check live traffic @ http://t.co/ak9NRCZk7X"	0
+464	464	Smooth traffic from Bhayandar to dadar on #westernexpress #uptraffic. Reached In one hour 	2
+465	465	 Heading back to #Mumbai. Traffic on the #Pune - #Mumbai Expressway was surprisingly smooth. No traffic jam at all.	2
+466	466	no vehicles at all	2
+467	467	slight vehicles	1
+468	468	fast moving traffic	2
+469	469	traffic getting worse on mumbai hwy	0
+470	470	Tanker crashed into a car on 	0
+471	471	Mumbai Pune Expressway is Good to commute towards Mumbai. Route is clear near Vashi as well.	2
+472	472	no entry due to	0
+473	473	no entry bcoz of	0
+474	474	no entry because of	0
+475	475	Heavy traffic at Chembur towards Mumbai	0
+476	476	no entry due to	0
+477	477	roads are getting crowded 	0
+478	478	 On Sunday the traffic  at the Gate Way is insane!	0
+479	479	roads are completely free	2
+480	480	blocked path 	0
+481	481	"WEH, JVLR and EEH - smooth flowing traffic at present.
+"	2
+482	482	very high traffic due to	0
+483	483	moderate traffic	1
+484	484	path is blocked	0
+485	485	medium traffic near	1
+486	486	Mega Block on Harbour Line: Guru Tegh Bahadur Nagar - Mankhurd Up 	0
+487	487	average traffic near	1
+488	488	 Brace yourself with jam of dahisar check naka traffic jam from check naka to borivalli .	0
+489	489	 W.E Highway badly traffked b/w Gokulanand Hotel 	0
+490	490	road closed due to repair	0
+491	491	moderate traffic because	1
+492	492	 jungleshwar road ashalfa jam toward Shivshena kajupada bhatwadi full jam	0
+493	493	clear roads near	2
+494	494	mega block near	0
+495	495	temp crashed into a car	0
+496	496	free road,no vehicles	2
+497	497	 traffic at vashi toll naka worse than peak office hour at 8pm Saturday!!	0
+498	498	 #MEGABLOCK HARBOUR LINE GURU TEGH BAHADUR NAGAR–MANKHURD 	0
+499	499	absolutely no one on road	2
+500	500	"ALERT
+An Accident between three vehicles at WEH, near Kherwadi junction, traffic towards Bandra Kalanagar is slow."	0
+501	501	 traffked on Mumbai nashik highway since last 20 mins 3 km from biwandi bypass towards nashik	0
+502	502	"ALERT 
+Tempo stalled at Khar Subway West, traffic slow in both directions. "	0
+503	503	moderate traffic at	1
+504	504	 Northbound traffic on Link road from Khar to Parle. 	1
+505	505	 Finally Junction opened near citimall on new link road . So no long u turn at Cinemax 	0
+506	506	 Bad accident of two Honda cities at Swami Vivekanand Rd	0
+507	507	No specific reason identified. Moderate jam created due to bottlenecks most probably.	1
+508	508	Standstill traffic near Lonawala on Pun-Mum side of the expressway	0
+509	509	Slow moving traffic on WEH from Borivali to Goregaon.	0
+510	510	 #Pune #Mumbai Express way jammed at #Lonavala. Expect huge delay. 	0
+511	511	 Super jam at Sion-Panvel toll at Kharghar. Kills all time saved by early start.	0
+512	512	  masssive jam at Dahisar toll naka.	0
+513	513	"moderate moving vehicles at 
+Chowpatty Seaface
+"	1
+514	514	Frustated due to traffic	0
+515	515	Frustated because of traffic	0
+516	516	 Upto 0.5 km long toll line in Kamothe at 12am	0
+517	517	Landslide on the road near	0
+518	518	 Fire at Dadar west titan showroom	0
+519	519	Traffic crawling too slow at Vasai rd	2
+520	520	Approach to Eastern Freeway Congested from Fort Market.	0
+521	521	NO Entry at N.C.Kelkar Marg, Motorists are advised to avoid S.K.Bole Mg, Bhavani Shankar Rd, Use S.V.Savarkar Rd or Gokhale Rd	0
+522	522	Mg road dug up for water pipeline	0
+523	523	An accident between two vehicles at Jogeshwari Vikhroli Link Road, near Durga Nagar Junction, causing traffic towards Vikhroli @7.30 pm	0
+524	524	ALERT @ 7.55 pm- Private bus stalled at Santacruz, Western Express Highway, On Vakola Flyover, traffic towards Vile Parle is slow.	0
+525	525	Congested traffic on Lokmanya Tilak Marg near Crawford Market.	0
+526	526	slight traffic at junction due to	1
+527	527	RT @anvats: Bumper to bumper slow moving traffic at seepz turning on jvlr @TrafflineMUM	0
+528	528	Slight traffic because of parked cars on the road	1
+529	529	sion bridge congestion........	0
+530	530	@sauravsingh12 Some congestion at Bandra Kherwadi, rest is normal and good to commute. 	1
+531	531	Slight congestion on rd near	1
+532	532	Slow moving traffic on Worli Seaface rd. on both  the sides.	0
+533	533	Stranded at traffic near	0
+534	534	Free road near	2
+535	535	road dug up.mean at work	0
+536	536	roads congested as vip showed up	0
+537	537	regular traffic on road near 	1
+538	538	regular traffic on road at 	1
+539	539	normal traffic near	1
+540	540	normal traffic at	1
+541	541	pleasant traffic at	1
+542	542	Crazy jam at Bandra Terminus. Sure ppl missed their trains. Had to ditch car and walk half km to reach for m…	0
+543	543	Took just 15 min to reach airport from thane	2
+544	544	Traffic congestion on Sardar Vallabhbhai Patel Rd towards Null Bazar. 	0
+545	545	Slow moving traffic on Dr. E Moses Marg in both directions near Uppar Worli. 	0
+546	546	roads flooded with vehicles near 	0
+547	547	Slow moving traffic on Senapati Bapat Marg towards Dadar. 	0
+548	548	you can drive on mg road effortlessly	2
+549	549	 avoid Powai route towards Jogeshwari	0
+550	550	Congested and Heavy traffic on Andheri W, JVPD circle signal towards DN Nagar.	0
+551	551	" Khar subway jammed while gng west
+Avoid it
+"	0
+552	552	Traffic congestion on Mumbai-Pune Exway near Expwy Toll Gate going towards Pune. 	0
+553	553	Slow moving traffic on Andheri E Jeejamata Rd i.e Pumphouse.	0
+554	554	Slow moving traffic on Mulund Airoli Toll Bridge towards Airoli.	0
+555	555	" Moderate traffic on JVLR and WEH
+"	1
+556	556	@Cricrajeshpk Can you tel us about Exact location about where this accident took place ?	
+557	557	" Still Slow moving traffic on that stretch.
+"	0
+558	558	slight traffic on	1
+559	559	slight traffic due to	1
+560	560	Slight congestion on 	1
+561	561	slight congestion from	1
+562	562	slight congestion due to fallen tree on	1
+563	563	little traffic on	1
+564	564	little traffic from	1
+565	565	Worst traffic on khairani road towards Powai. Standstill and bumper to bumper traffic 	0
+566	566	road is filled with vehicles	0
+567	567	road is full of vehicles	0
+568	568	congested roads because of	0
+569	569	road will remain closed 	0
+570	570	no traffic on	2
+571	571	no traffic from	2
+572	572	traffic on station road	1
+573	573	heavy traffic on	0
+574	574	heavy traffic from	0
+575	575	heavy traffic due to	0
+576	576	smooth road from	2
+577	577	Traffic moving slow from plaza cinema toward dadar TT (via tilak bridge)	0
+578	578	traffic is normal from	1
+579	579	traffic is normal due to	1
+580	580	roads are choked near	0
+581	581	no traffic near	2
+582	582	traffic is normal near	1
+583	583	Congested traffic on EEH from Sion Koliwada towards Matunga.	0
+584	584	ALERT - Road Work in progress at Malad Marve Road Junction on S.V Road hence traffic in both directions is slow	0
+585	585	choked traffic because of	0
+586	586	ALERT - Road Work in progress at Gandhi Market- Kings Circle hence traffic towards Matunga has slowed down.	0
+587	587	ALERT - Road is dug up on Marol Maroshi Road hence traffic towards Marol Naka has slowed down.	0
+588	588	ALERT @7.35 hrs A Tanker stalled at LBS Marg Vikhroli West near Godrej Jun. Traffic towards Kanju Marg is moderate	1
+589	589	terrible traffic near	0
+590	590	terrible traffic due to	0
+591	591	 Bad jam near kokilaben hospital andheri 	0
+592	592	horrific traffic near	0
+593	593	no traffic on roads	2
+594	594	 Moderate traffic on JVLR.	1
+595	595	horrific traffic on	0
+596	596	horrific traffic because of	0
+597	597	"
+An Accident between Three vehicles at Chembur, Eastern Express Highway, on Amar Mahal Flyover, traffic towards Chheda nagar is slow."	0
+598	598	At 19:03 Slow moving traffic on Senapati Bapat Marg from Dadar towards Parel.	0
+599	599	moderate moving vehicles at  Aarey rd	1
+600	600	"Congested traffic on LBS rd from Vikhroli towards Ghatkoper Nityanand Nagar.
+"	0
+601	601	completely free roads near orbit mall	2
+602	602	medium traffic near	1
+603	603	 no traffic on	2
+604	604	Congested traffic on Kalina Flyover towards CST Rd.	0
+605	605	 Southbound Opp Sion Hospital is trafficked. Avoid this route if possible	0
+606	606	accident on 	0
+607	607	accident near 	0
+608	608	medium traffic on	1
+609	609	ALERT- Accident on Mumbai -Pune Expressway nr Amrutanjan Bridge, Lonavala .Chain collision. Traffic flow disrupted.	0
+610	610	Station rd is flooded with water	0
+611	611	average traffic near	1
