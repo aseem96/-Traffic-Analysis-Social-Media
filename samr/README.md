@@ -159,7 +159,7 @@ This project is open-source and BSD licensed, see the LICENSE file for details.
 
 This license basically allows you to do anything, but in case you're wondering:
 I'm ok if you use `samr` to beat my score at the competition, just share back
-what you've learned!
+what you've learned.
 
 
 Credits
